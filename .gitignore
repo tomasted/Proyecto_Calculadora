@@ -1,0 +1,9 @@
+.project
+.classpath
+/bin
+*.jar
+*.rar
+*.zip
+*.war
+*.ear
+.settings/
